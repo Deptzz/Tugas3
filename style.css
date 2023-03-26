@@ -1,0 +1,12 @@
+body {
+    background-image: url(img/bioskop.jpg);
+    background-size: cover;
+}
+
+.container h1 {
+    color: aqua;
+}
+
+.container h5 {
+    color: aqua;
+}
